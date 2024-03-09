@@ -33,3 +33,9 @@ To run the beam search algorithm, the command line format is as follows:
 - The parameters are currently configured for the small-medium class of mazes, with Small-Medium1 as the default maze.
 - The beamwidth can be modified inside the beam_search function.
 - The output maze is stored as mazename_result_BS.bmp
+
+## Report
+
+Full report here: <a href="CI_A3_1603701.pdf">
+Ant System: Finding the Longest Path
+ </a>
